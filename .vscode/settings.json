@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/home/matt/.local/share/virtualenvs/KWHelper-T1r_h218/bin/python"
+}
